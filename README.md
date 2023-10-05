@@ -1,5 +1,4 @@
-# Sentiment-Analysis-of-Amazon-Customers-Reviews-for-Food-Products-Using-Machine-Learning-Approach
-# Sentiment Analysis of Product Reviews
+# Sentiment Analysis of Amazon Customer's Reviews for Food Products Using Machine Learning Approach
 
 This repository contains Python code for a project that focuses on sentiment analysis of product reviews. The project implements and compares three types of linear classifiers: the perceptron algorithm, the average perceptron algorithm, and the Pegasos algorithm. It uses a dataset of product reviews from Amazon customers and explores the impact of different features on classifier performance.
 
@@ -27,6 +26,15 @@ This repository contains Python code for a project that focuses on sentiment ana
 ## Usage
 
 1. Clone this repository to your local machine:
+     ```bash
+   git clone https://github.com/your-username/Sentiment-Analysis-of-Amazon-Customers-Reviews-for-Food-Products-Using-Machine-Learning-Approach.git
+   
+## Results
+Experiment with different features and hyperparameters to achieve the best classifier performance.
+You can visualize and analyze the results using Matplotlib in main.py.
 
-   ```bash
-   git clone https://github.com/your-username/sentiment-analysis-project.git
+## Contributing
+Contributions are welcome! If you find any issues or have improvements to suggest, please open an issue or submit a pull request.
+
+## Acknowledgements
+This project is part of the Machine Learning with Python course at MITx.
