@@ -403,7 +403,7 @@ def bag_of_words(texts, remove_stopword=False):
         integer `index`.
     """
     # Your code here
-    with open('D:\ML-AI-DRF\MicroMasters Program_Statistics and Data Science\MITx 6.86x Machine Learning with Python-From Linear Models to Deep Learning\Project 1 Automatic Review Analyzer\stopwords.txt', 'r') as f:  
+    with open('filename', 'r') as f:  
         stopwords = f.read().splitlines() 
     indices_by_word = {}  # maps word to unique index
     for text in texts:
