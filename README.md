@@ -1,6 +1,6 @@
 # Sentiment Analysis of Amazon Customer's Reviews for Food Products Using Machine Learning Approach
 
-This repository contains Python code for a project that focuses on sentiment analysis of product reviews. The project implements and compares three types of linear classifiers: the perceptron algorithm, the average perceptron algorithm, and the Pegasos algorithm. It uses a dataset of product reviews from Amazon customers and explores the impact of different features on classifier performance.
+This repository contains Python code for a project that focuses on sentiment analysis of product reviews. The project implements and compares three types of linear classifiers: the perceptron algorithm, the average perceptron algorithm, and the Pegasos algorithm. It uses a dataset of product reviews from Amazon customers and explores the impact of different features on classifier performance. The reviews, originally given on a 5-point scale, have been adjusted to a +1 or -1 scale, representing a positive or negative review, respectively.
 
 ## Project Overview
 
